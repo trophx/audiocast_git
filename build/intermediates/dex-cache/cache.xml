@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-df93094bc5a7966dbed029a97d20478b995891bf.jar" />
+    </item>
+    <item
+        jar="/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b6df98d4794085161863af40b8f48b305692e751.jar" />
+    </item>
+    <item
+        jar="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/exploded-aar/AudioCast/SeekArc_library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="133b1a639b644de593d20983692a529673f7c52d">
+        <dex dex="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/pre-dexed/debug/classes-de54f442b269628971265550e16e0d9eef191030.jar" />
+    </item>
+    <item
+        jar="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/pre-dexed/debug/classes-b660846f74b351857e431481439b08ce6b1aee85.jar" />
+    </item>
+    <item
+        jar="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/Chris/AndroidstudioProjects/AudioCast/app/build/intermediates/pre-dexed/debug/classes-462b494ed5df343d681452ef176f0b2416bd95d7.jar" />
+    </item>
+
+</items>
