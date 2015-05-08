@@ -13,31 +13,14 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         tools:context="design.troph.com.audiocast.MainActivity">
 
-        <ImageView
-            android:id="@+id/addRoot"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-            android:src="@drawable/ic_add_circle_grey600_48dp" />
 
-        <TextView
-            android:id="@+id/textView3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_above="@+id/addRoot"
-            android:layout_centerHorizontal="true"
-            android:layout_marginBottom="83dp"
-            android:text="Root folder not yet selected" />
 
-        <TextView
-            android:id="@+id/textView4"
+
+        <ListView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignTop="@+id/textView3"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="41dp"
-            android:text="Please add a library" />
+            android:id="@+id/listView"
+            />
     </RelativeLayout>
     <ListView
         android:id="@+id/navList"

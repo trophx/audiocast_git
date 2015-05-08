@@ -24,7 +24,7 @@ import java.util.Random;
 /**
  * Created by Chris on 4/25/15.
  */
-public class MediaPlayerHelper extends Service implements
+public class MediaPlayerService extends Service implements
         MediaPlayer.OnPreparedListener, MediaPlayer.OnErrorListener,
         MediaPlayer.OnCompletionListener {
 
@@ -110,8 +110,8 @@ public class MediaPlayerHelper extends Service implements
 
     //binder
     public class MusicBinder extends Binder {
-        MediaPlayerHelper getService() {
-            return MediaPlayerHelper.this;
+        MediaPlayerService getService() {
+            return MediaPlayerService.this;
         }
     }
 
